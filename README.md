@@ -2,4 +2,4 @@
 
 🔭 I am Data Engineer with a Software Engineering background
 
-📫 Direct for work: linkedin.com/in/kietlam96/
+📫 Direct for work: [linkedin.com/in/kietlam96/](https://www.linkedin.com/in/kietlam96/)
